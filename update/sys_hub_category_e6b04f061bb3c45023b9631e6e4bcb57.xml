@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_category">
+    <sys_hub_category action="INSERT_OR_UPDATE">
+        <name>IPAM</name>
+        <order>100</order>
+        <sys_class_name>sys_hub_category</sys_class_name>
+        <sys_created_by>smorey</sys_created_by>
+        <sys_created_on>2020-03-28 16:03:56</sys_created_on>
+        <sys_id>e6b04f061bb3c45023b9631e6e4bcb57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAM</sys_name>
+        <sys_package display_value="NS1 Integration" source="x_401282_nsone_int">79627e08dbbf330051bde4da4b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NS1 Integration">79627e08dbbf330051bde4da4b961982</sys_scope>
+        <sys_update_name>sys_hub_category_e6b04f061bb3c45023b9631e6e4bcb57</sys_update_name>
+        <sys_updated_by>smorey</sys_updated_by>
+        <sys_updated_on>2020-03-28 16:03:56</sys_updated_on>
+    </sys_hub_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=e6b04f061bb3c45023b9631e6e4bcb57"/>
+</record_update>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>98bca6c81b1280101cf5b9541a4bcbe0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="api_key_credentials">
+    <api_key_credentials action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <api_key>Y2QSNFh8IWbKrNHVYQX1TUuwGv8m9Z9A</api_key>
+        <applies_to>all</applies_to>
+        <authentication_key/>
+        <authentication_protocol/>
+        <classification>api_key</classification>
+        <mid_list/>
+        <name>X-NSONE-Key-Private</name>
+        <order>100</order>
+        <password/>
+        <privacy_key/>
+        <privacy_protocol/>
+        <ssh_passphrase/>
+        <ssh_private_key/>
+        <sys_class_name>api_key_credentials</sys_class_name>
+        <sys_created_by>jjavier</sys_created_by>
+        <sys_created_on>2020-01-07 19:54:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>98bca6c81b1280101cf5b9541a4bcbe0</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_updated_by>spanda</sys_updated_by>
+        <sys_updated_on>2020-02-20 22:17:56</sys_updated_on>
+        <tag/>
+        <type>api_key</type>
+        <user_name/>
+    </api_key_credentials>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>smorey</sys_created_by>
+        <sys_created_on>2020-03-02 17:36:08</sys_created_on>
+        <sys_id>358c597d1b9f0810d14621be6e4bcb92</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>X-NSONE-Key-Private</sys_name>
+        <sys_package display_value="NS1 Integration" source="x_401282_nsone_int">79627e08dbbf330051bde4da4b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NS1 Integration">79627e08dbbf330051bde4da4b961982</sys_scope>
+        <sys_update_name>sys_metadata_link_358c597d1b9f0810d14621be6e4bcb92</sys_update_name>
+        <sys_updated_by>smorey</sys_updated_by>
+        <sys_updated_on>2020-03-02 17:36:08</sys_updated_on>
+        <tablename>api_key_credentials</tablename>
+    </sys_metadata_link>
+</record_update>

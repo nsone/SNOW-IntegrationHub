@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="NS1 Integration">39623600dbff330051bde4da4b961986</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>SEPARATOR</link_type>
+        <map_page/>
+        <mobile_title>Confg</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name/>
+        <order>2350</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>smorey</sys_created_by>
+        <sys_created_on>2020-01-10 19:45:45</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d8570e8d1b1604101cf5b9541a4bcbc4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Monitoring</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NS1 Integration" source="x_401282_nsone_int">79627e08dbbf330051bde4da4b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NS1 Integration">79627e08dbbf330051bde4da4b961982</sys_scope>
+        <sys_update_name>sys_app_module_d8570e8d1b1604101cf5b9541a4bcbc4</sys_update_name>
+        <sys_updated_by>smorey</sys_updated_by>
+        <sys_updated_on>2020-01-10 19:48:04</sys_updated_on>
+        <timeline_page/>
+        <title>Monitoring</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

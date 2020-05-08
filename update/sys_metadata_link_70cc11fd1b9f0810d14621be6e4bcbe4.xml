@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6a550a801bde40101cf5b9541a4bcb75</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="http_connection">
+    <http_connection action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="ALL">35aa573fd7802200bdbaee5b5e610375</application>
+        <base_path/>
+        <capabilities/>
+        <connection_alias display_value="x_401282_nsone_int.NS1_Managed">21a8aef6db70c8d021b91ffa6896194e</connection_alias>
+        <connection_retries>0</connection_retries>
+        <connection_timeout>0</connection_timeout>
+        <connection_url>https://api.nsone.net/v1</connection_url>
+        <credential display_value="X-NSONE-Key-Managed">a00bcda21b59c450d14621be6e4bcb24</credential>
+        <extended_attributes/>
+        <host>api.nsone.net</host>
+        <mutual_auth>false</mutual_auth>
+        <name>NSOne_Mannged_Conn</name>
+        <order>100</order>
+        <port/>
+        <protocol>https</protocol>
+        <protocol_profile/>
+        <sys_class_name>http_connection</sys_class_name>
+        <sys_created_by>jjavier</sys_created_by>
+        <sys_created_on>2020-01-07 17:04:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>6a550a801bde40101cf5b9541a4bcb75</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_updated_by>jjavier</sys_updated_by>
+        <sys_updated_on>2020-01-13 21:06:53</sys_updated_on>
+        <url_builder>false</url_builder>
+        <use_mid>false</use_mid>
+    </http_connection>
+    <sys_variable_value action="delete_multiple" query="document_key=6a550a801bde40101cf5b9541a4bcb75"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>smorey</sys_created_by>
+        <sys_created_on>2020-03-02 17:37:10</sys_created_on>
+        <sys_id>70cc11fd1b9f0810d14621be6e4bcbe4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NSOne_Mannged_Conn</sys_name>
+        <sys_package display_value="NS1 Integration" source="x_401282_nsone_int">79627e08dbbf330051bde4da4b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NS1 Integration">79627e08dbbf330051bde4da4b961982</sys_scope>
+        <sys_update_name>sys_metadata_link_70cc11fd1b9f0810d14621be6e4bcbe4</sys_update_name>
+        <sys_updated_by>smorey</sys_updated_by>
+        <sys_updated_on>2020-03-02 17:37:10</sys_updated_on>
+        <tablename>sys_connection</tablename>
+    </sys_metadata_link>
+</record_update>

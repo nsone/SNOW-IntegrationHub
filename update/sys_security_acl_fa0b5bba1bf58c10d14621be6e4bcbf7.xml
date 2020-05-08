@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>All logged-in users  should be able to access API monitoring page</description>
+        <name>x_401282_nsone_int_API_Monitoring</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>smorey</sys_created_by>
+        <sys_created_on>2019-12-22 15:51:04</sys_created_on>
+        <sys_id>fa0b5bba1bf58c10d14621be6e4bcbf7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_401282_nsone_int_API_Monitoring</sys_name>
+        <sys_package display_value="NS1 Integration" source="x_401282_nsone_int">79627e08dbbf330051bde4da4b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NS1 Integration">79627e08dbbf330051bde4da4b961982</sys_scope>
+        <sys_update_name>sys_security_acl_fa0b5bba1bf58c10d14621be6e4bcbf7</sys_update_name>
+        <sys_updated_by>smorey</sys_updated_by>
+        <sys_updated_on>2019-12-22 15:53:00</sys_updated_on>
+        <type display_value="ui_page">ui_page</type>
+    </sys_security_acl>
+</record_update>

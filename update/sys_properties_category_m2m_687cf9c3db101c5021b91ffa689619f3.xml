@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="NSOne Configurations">ecc78494dbb3730051bde4da4b9619a5</category>
+        <order>600</order>
+        <property display_value="x_401282_nsone_int.data.import.method" name="x_401282_nsone_int.data.import.method">f8db3d83db101c5021b91ffa68961980</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>smorey</sys_created_by>
+        <sys_created_on>2020-04-25 10:10:48</sys_created_on>
+        <sys_id>687cf9c3db101c5021b91ffa689619f3</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_401282_nsone_int.process.import.via.NSOne Configurations</sys_name>
+        <sys_package display_value="NS1 Integration" source="x_401282_nsone_int">79627e08dbbf330051bde4da4b961982</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NS1 Integration">79627e08dbbf330051bde4da4b961982</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_687cf9c3db101c5021b91ffa689619f3</sys_update_name>
+        <sys_updated_by>smorey</sys_updated_by>
+        <sys_updated_on>2020-04-25 10:12:47</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="type" table="var__m_sys_hub_action_input_5e7cdd5cdb80541021b91ffa6896195b" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_5e7cdd5cdb80541021b91ffa6896195b</name>
+            <sequence>0</sequence>
+            <sys_created_by>smorey</sys_created_by>
+            <sys_created_on>2020-04-04 08:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c4fd15d0dbc0541021b91ffa6896190d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>smorey</sys_updated_by>
+            <sys_updated_on>2020-04-04 14:30:53</sys_updated_on>
+            <value>A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>AAAA</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_5e7cdd5cdb80541021b91ffa6896195b</name>
+            <sequence>1</sequence>
+            <sys_created_by>smorey</sys_created_by>
+            <sys_created_on>2020-04-04 08:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>80fd15d0dbc0541021b91ffa6896190e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>smorey</sys_updated_by>
+            <sys_updated_on>2020-04-04 14:30:53</sys_updated_on>
+            <value>AAAA</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PTR</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_5e7cdd5cdb80541021b91ffa6896195b</name>
+            <sequence>2</sequence>
+            <sys_created_by>smorey</sys_created_by>
+            <sys_created_on>2020-04-04 08:38:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cfd15d0dbc0541021b91ffa6896190e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>smorey</sys_updated_by>
+            <sys_updated_on>2020-04-04 14:30:53</sys_updated_on>
+            <value>PTR</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>type</element>
+            <name>var__m_sys_hub_action_input_5e7cdd5cdb80541021b91ffa6896195b</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>smorey</sys_created_by>
+            <sys_created_on>2020-04-29 16:43:26</sys_created_on>
+            <sys_id>4bacb31c1ba490101cf5b9541a4bcb7d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>type</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NS1 Integration">79627e08dbbf330051bde4da4b961982</sys_scope>
+            <sys_update_name>sys_choice_var__m_sys_hub_action_input_5e7cdd5cdb80541021b91ffa6896195b_type</sys_update_name>
+            <sys_updated_by>smorey</sys_updated_by>
+            <sys_updated_on>2020-04-29 16:43:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

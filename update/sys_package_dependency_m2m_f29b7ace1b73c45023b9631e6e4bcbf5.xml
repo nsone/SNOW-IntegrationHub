@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="ServiceNow IntegrationHub Runtime" source="com.glide.hub.integration.runtime">476a66001b6450101cf5b9541a4bcb52</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>smorey</sys_created_by>
+        <sys_created_on>2020-03-28 15:41:25</sys_created_on>
+        <sys_id>f29b7ace1b73c45023b9631e6e4bcbf5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="NS1 Integration" source="x_401282_nsone_int">79627e08dbbf330051bde4da4b961982</sys_package>
+        <sys_updated_by>smorey</sys_updated_by>
+        <sys_updated_on>2020-03-28 15:41:25</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
